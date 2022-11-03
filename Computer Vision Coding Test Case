@@ -1,3 +1,4 @@
+We have cameras installed on the poles but that sometimes deviate from their position, maybe someone pulled the wire or hit the camera. Write a code to detect that camera is dispositioned and generate an error of placement.?
 The video file is attached, please see the video carefully at  the time where camera is dispositioned on xxx minutes u have to generate the an error of placement   
 Instructions
 How to attempt this challenge:
