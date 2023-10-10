@@ -1,0 +1,14 @@
+Web Developer Coding Round Challenge
+Develop Authentication system of of user sign up & login & logout, one user will be admin user, all the user data will be shown in the panel
+The user name , password will be stored into the database, user can update the password and  username 
+Tools:    Front end React , back end Node js, MERN stack
+Time DURATION:   24 HOURS
+
+
+
+
+Instructions: How to attempt this challenge:
+Create a new repo in your account and note the git url
+Solve the challenge
+Push your solution to Skill Assessment/web development repo
+You will be given 24 hours to complete the challenge, 
