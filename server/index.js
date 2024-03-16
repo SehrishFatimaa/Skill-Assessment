@@ -89,5 +89,5 @@ app.post('/logout', async (req, res) => {
   });
 
 app.listen(5000, () => {
-  console.log('Server started on http://localhost:5000');
+  console.log('server started on http://localhost:5000');
 });
